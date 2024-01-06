@@ -38,7 +38,7 @@ let arr1=[1,2,3,4,5,'vais'];
 console.log(typeof(arr1));
 //JS Objects
 let person={
-    name:'Vaishakh',
+    name:'Maya',
     age:25,
     place:'CLT'
 }
